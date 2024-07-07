@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@font-face { 
+  font-family: "Busorama"; 
+  src: url("/fonts/busorama.otf") format('opentype'); 
+}
+
+@font-face { 
+  font-family: "Aachen"; 
+  src: url("/fonts/aachen.ttf") format('truetype');
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
