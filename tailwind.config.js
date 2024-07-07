@@ -19,10 +19,12 @@ module.exports = {
         pfbg: "#f9d500",
         primary: "#db7d2f",
         secondary: "#a10f0f",
+        warning: "#f9d500",
       },
       fontFamily :{ 
         busorama: ["Busorama","serif"], 
-        aachen: ["Aachen","serif"], 
+        aachen: ["Aachen","sans-serif"],
+        detroit: ["Detroit", "sans-serif"],
         poppins: ["Poppins", "serif"],
       } 
     },

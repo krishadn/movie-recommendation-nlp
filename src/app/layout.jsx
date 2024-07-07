@@ -1,5 +1,6 @@
 import "./globals.css";
 import {Providers} from "./providers";
+import Footer from "./components/Footer";
 
 export const metadata = {
   title: "Movie Recommendation",
@@ -13,6 +14,7 @@ export default function RootLayout({ children }) {
         <Providers>
           <main className=" bg-black">
             {children}
+            <Footer />
           </main>
         </Providers>
       </body>
