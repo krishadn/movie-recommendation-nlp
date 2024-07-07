@@ -11,6 +11,11 @@
 }
 
 @font-face { 
+  font-family: "Detroit"; 
+  src: url("/fonts/detroit.otf") format('opentype'); 
+}
+
+@font-face { 
   font-family: "Aachen"; 
   src: url("/fonts/aachen.ttf") format('truetype');
 }
