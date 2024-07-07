@@ -67,7 +67,7 @@ export default function Home() {
       </div>
 
       <div className="flex flex-col items-start justify-end px-10">
-            <h2 className="font-busorama font-bold text-7xl text-primary">MADE USING</h2>
+            <h2 className="font-busorama font-bold text-7xl text-primary">MADE WITH THE USE OF</h2>
             <h2 className="font-busorama font-bold text-7xl text-primary">NATURAL LANGUAGE PROCESSING</h2>
       </div>
       
