@@ -3,7 +3,7 @@ import {Providers} from "./providers";
 import Footer from "./components/Footer";
 
 export const metadata = {
-  title: "Movie Recommendation",
+  title: "CINEGEST: Movie Recommendation",
   description: "Project in Natural Language Processing",
 };
 
@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
         <Providers>
           <main className=" bg-black">
             {children}
-            <Footer />
+            {/* <Footer /> */}
           </main>
         </Providers>
       </body>
